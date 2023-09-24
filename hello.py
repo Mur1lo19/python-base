@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Hello word mult linguas.
+Hello word multi linguas.
 
 Dependendo da lingua configurada no ambiente o programa exibe a mensagem
 correspondente.
